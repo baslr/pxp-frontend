@@ -1,5 +1,8 @@
 
 
+# deadline grobentwurf 15 märz
+
+# deadline final mit minor bugs 24 märz
 
 • erster entwurf like pp 
 
